@@ -5,4 +5,4 @@ SuperStore Data analysis Using Tableau.
 
 To check my dashboard in tableau public
 
-![Tableau](https://public.tableau.com/profile/pradeep.gurunathan#!/vizhome/SuperStore_Category_Review/Dashboard1)
+[Tableau](https://public.tableau.com/profile/pradeep.gurunathan#!/vizhome/SuperStore_Category_Review/Dashboard1)
